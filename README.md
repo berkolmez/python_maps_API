@@ -8,4 +8,4 @@ https://developers.google.com/maps/documentation/distance-matrix/get-api-key
 
 Paste the key in the "API_key.txt" file.
 
-distance_matrix.txt file will be created in the results folder.
+distance_matrix.txt file will be created in the result folder.
